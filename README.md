@@ -1,7 +1,7 @@
 # RF_2025
 
 
-Pour exécute le code, exécuter le fichier src/main.py:
+Pour exécuter le code, exécuter le fichier src/main.py:
 
 python3 src/main.py
 
